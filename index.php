@@ -53,16 +53,14 @@
                     <label>NIM</label>
                     <div class="input-group">
                       <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                      <input type="text" name="username" parsley-trigger="change" required
-                        placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control"></div>
+                      <input type="text" name="username" parsley-trigger="change" required placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control"></div>
                   </div>
                   <!--/form-group-->
                   <div class="form-group">
                     <label>Password</label>
                     <div class="input-group">
                       <span class="input-group-addon"><i class="fa fa-lock"></i></span>
-                      <input id="pass1" type="password" name="password" placeholder="Password, ex: 2002-02-02" required
-                        class="form-control">
+                      <input id="pass1" type="password" name="password" placeholder="Password, ex: 2002-02-02" required class="form-control">
                     </div>
                   </div>
                   <!--/form-group-->
@@ -80,10 +78,11 @@
 
             <a href="http://instagram.com/ariffb.id">
               <div>
-                <img
-                  src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-35.png"
-                  alt="" width="100">
+                <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-35.png" alt="" width="100">
             </a>
+            <a class="btn btn-primary" href="bayarkuliah">Bayar Kuliah</a>
+            <a class="btn btn-primary" href="ektm">Login EKTM</a>
+
           </div>
 
         </div>
@@ -97,12 +96,8 @@
 
 
 
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
-    crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
 
 </html>
