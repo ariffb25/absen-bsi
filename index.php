@@ -17,6 +17,8 @@
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 
+
+
 </head>
 
 <body>
@@ -53,7 +55,8 @@
                     <label>NIM</label>
                     <div class="input-group">
                       <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                      <input type="text" name="username" parsley-trigger="change" required placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control"></div>
+                      <input type="text" name="username" parsley-trigger="change" required placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control">
+                    </div>
                   </div>
                   <!--/form-group-->
                   <div class="form-group">
@@ -76,12 +79,21 @@
             </div>
             <hr>
 
-            <a href="http://instagram.com/ariffb.id">
-              <div>
-                <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-35.png" alt="" width="100">
-            </a>
-            <a class="btn btn-primary" href="bayarkuliah">Bayar Kuliah</a>
-            <a class="btn btn-primary" href="ektm">Login EKTM</a>
+            <div>
+              <a href="http://instagram.com/ariffb.id">
+                <div>
+                  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-35.png" alt="" width="100">
+              </a>
+              <a class="btn btn-primary" href="bayarkuliah">Bayar Kuliah</a>
+              <a class="btn btn-primary" href="ektm">Login EKTM</a>
+            </div>
+
+            <div style="text-align: center;">
+
+              <a class="btn btn-success" href="jadwal/uas.php">Jadwal UAS 2020/2021 <span class="badge bg-danger" style="color:white;">New!</span></a>
+
+            </div>
+
 
           </div>
 
