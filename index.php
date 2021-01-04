@@ -79,21 +79,27 @@
             </div>
             <hr>
 
-            <div>
-              <a href="http://instagram.com/ariffb.id">
-                <div>
-                  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-35.png" alt="" width="100">
-              </a>
+            <div style="text-align: center;" class="mb-2">
               <a class="btn btn-primary" href="bayarkuliah">Bayar Kuliah</a>
               <a class="btn btn-primary" href="ektm">Login EKTM</a>
+
             </div>
+
+            <div style="text-align: center;" class="mb-2">
+
+              <a class="btn btn-success" href="jadwal/uas.php">Jadwal UAS 2020/2021 <span class="badge bg-danger" style="color:white;">New!</span></a>
+              <a class="btn btn-secondary" href="ujian.php">Login UJIAN <span class="badge bg-danger" style="color:white;">New!</span></a>
+
+            </div>
+
 
             <div style="text-align: center;">
 
-              <a class="btn btn-success" href="jadwal/uas.php">Jadwal UAS 2020/2021 <span class="badge bg-danger" style="color:white;">New!</span></a>
+              <a href="https://api.whatsapp.com/send?phone=%2B6283128734012&text="><img src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" width="50" alt="wa"></a>
+              <a href="https://instagram.com/ariffb.id"><img src="https://www.pinclipart.com/picdir/big/33-337425_instagram-clipart-psd-instagram-logo-png-hd-download.png" width="30" alt="ig"></a>
+              <a class="ml-3" href="https://www.facebook.com/ariffb755"><img src="https://img.pngio.com/facebook-logo-png-transparent-background-1024x1024-basement-facebook-png-transparent-1024_1024.png" width="30" alt="ig"></a>
 
             </div>
-
 
           </div>
 

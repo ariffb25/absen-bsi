@@ -15,10 +15,17 @@
 
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 </head>
 
 <body>
-
+    <div>
+        <button class="btn btn-danger" onclick="goBack()"><i class="fas fa fw fa-arrow-left"></i> Back</button>
+    </div>
     <h1 style="text-align: center;" class="mt-5">JADWAL UAS 2020/2021</h1>
 
     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="table table-striped">
@@ -59,6 +66,12 @@
     </table>
 
     <h2 style="text-align: center;" class="mt-5">SEMANGAT UJIANNYA GUYS!</h2>
+    <hr>
+
+    <div style="text-align: center;" style="font-size: 20;">
+        <p>klik untuk ke halaman ujian</p>
+        <a class="btn btn-primary" href="ujian.php">UJIAN</a>
+    </div>
 
 </body>
 
