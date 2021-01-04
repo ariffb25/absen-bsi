@@ -87,7 +87,7 @@
 
             <div style="text-align: center;" class="mb-2">
 
-              <a class="btn btn-success" href="jadwal/uas.php">Jadwal UAS 2020/2021 <span class="badge bg-danger" style="color:white;">New!</span></a>
+              <a class="btn btn-success ml-2" href="jadwal/uas.php">Jadwal UAS <span class="badge bg-danger" style="color:white;">New!</span></a>
               <a class="btn btn-secondary" href="ujian.php">Login UJIAN <span class="badge bg-danger" style="color:white;">New!</span></a>
 
             </div>
