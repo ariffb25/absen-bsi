@@ -98,6 +98,7 @@
               <a href="https://api.whatsapp.com/send?phone=%2B6283128734012&text="><img src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" width="50" alt="wa"></a>
               <a href="https://instagram.com/ariffb.id"><img src="https://www.pinclipart.com/picdir/big/33-337425_instagram-clipart-psd-instagram-logo-png-hd-download.png" width="30" alt="ig"></a>
               <a class="ml-3" href="https://www.facebook.com/ariffb755"><img src="https://img.pngio.com/facebook-logo-png-transparent-background-1024x1024-basement-facebook-png-transparent-1024_1024.png" width="30" alt="ig"></a>
+              <a class="" href="https://www.github.com/ariffb755"><img src="https://pngimg.com/uploads/github/github_PNG58.png" width="50" alt="ig"></a>
 
             </div>
 
