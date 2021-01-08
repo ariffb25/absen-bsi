@@ -70,7 +70,7 @@
 
     <div style="text-align: center;" style="font-size: 20;">
         <p>klik untuk ke halaman ujian</p>
-        <a class="btn btn-primary" href="ujian.php">UJIAN</a>
+        <a class="btn btn-primary" href="../ujian.php">UJIAN</a>
     </div>
 
 </body>
