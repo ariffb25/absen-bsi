@@ -45,7 +45,7 @@
 
     <div>
 
-      <div class="">
+      <div class="col-md-12">
         <div class="block-web" style="background: #474747;">
           <div id="dynamic-table_wrapper" class="dataTables_wrapper ">
 
@@ -66,7 +66,7 @@
 
                   <div class="form-group" style="color:#dbdbdb;">
                     <label>NIM</label>
-                    <div class="input-group">
+                    <div class="input-group col-md-12">
                       <span style="background:#6c747c;" class="input-group-text" id="basic-addon1"><i style="color: #dbdbdb;" class="fa fas fa-user"></i></span>
                       <input style="background: #474747;" type="text" name="username" parsley-trigger="change" required placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control qq" aria-label="Username" aria-describedby="basic-addon1">
                     </div>
@@ -74,7 +74,7 @@
                   <!--/form-group-->
                   <div class="form-group" style="color:#dbdbdb;">
                     <label>Password</label>
-                    <div class="input-group">
+                    <div class="input-group col-md-12">
                       <span style="background:#6c747c;" class="input-group-text" id="basic-addon2"><i style="color: #dbdbdb;" class="fa fas fa-lock"></i></span>
                       <input style="background: #474747;" id="pass1" type="password" name="password" placeholder="Password, ex: 2002-02-02" required class="form-control qq" aria-label="pass1" aria-describedby="basic-addon2">
                     </div>
