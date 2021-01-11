@@ -39,7 +39,7 @@
   <div class="page-content">
 
     <div class="col-md-12">
-      <h2 style="color: #dbdbdb;">Halaman Login Absensi</h2>
+      <h2 style="color: #dbdbdb;">Login Absensi</h2>
     </div>
     <!--/col-md-12-->
 
@@ -54,7 +54,7 @@
 
                 <div class="porlets-content">
                   <form action="http://mhsonline.bsi.ac.id/login/cek" method="post" parsley-validate novalidate>
-                    <div class="header" style="background:#8c0000 !important;">
+                    <div class="header" style="background:#6c747c !important;">
                       <div class="actions"> <a class="minimize" href="#"></a> </div>
                       <h3 class="content-header" style="color:#dbdbdb;">Form Login</h3>
                     </div>
@@ -64,23 +64,23 @@
 
                 <div class="porlets-content">
 
-                  <div class="form-group">
+                  <div class="form-group" style="color:#dbdbdb;">
                     <label>NIM</label>
                     <div class="input-group">
-                      <span style="background:#8c0000;" class="input-group-text" id="basic-addon1"><i style="color: #dbdbdb;" class="fa fas fa-user"></i></span>
+                      <span style="background:#6c747c;" class="input-group-text" id="basic-addon1"><i style="color: #dbdbdb;" class="fa fas fa-user"></i></span>
                       <input style="background: #474747;" type="text" name="username" parsley-trigger="change" required placeholder="No Induk Mahasiswa, ex: 12191960" class="form-control qq" aria-label="Username" aria-describedby="basic-addon1">
                     </div>
                   </div>
                   <!--/form-group-->
-                  <div class="form-group">
+                  <div class="form-group" style="color:#dbdbdb;">
                     <label>Password</label>
                     <div class="input-group">
-                      <span style="background:#8c0000;" class="input-group-text" id="basic-addon2"><i style="color: #dbdbdb;" class="fa fas fa-lock"></i></span>
+                      <span style="background:#6c747c;" class="input-group-text" id="basic-addon2"><i style="color: #dbdbdb;" class="fa fas fa-lock"></i></span>
                       <input style="background: #474747;" id="pass1" type="password" name="password" placeholder="Password, ex: 2002-02-02" required class="form-control qq" aria-label="pass1" aria-describedby="basic-addon2">
                     </div>
                   </div>
                   <!--/form-group-->
-                  <button class="btn btn-danger" type="submit">Login</button>
+                  <button class="btn btn-secondary" type="submit">Login</button>
                   <!-- <h5>*silahkan gunakan password <mark>2018-09-17</mark> bagi mahasiswa baru yang tidak dapat login
                     menggunakan tanggal lahir</h5> -->
                   </form>
@@ -93,15 +93,15 @@
             <hr>
 
             <div style="text-align: center;" class="mb-2">
-              <a class="btn btn-danger" href="bayarkuliah">Bayar Kuliah</a>
-              <a class="btn btn-danger" href="ektm">Login EKTM</a>
+              <a class="btn btn-secondary" href="bayarkuliah">Bayar Kuliah</a>
+              <a class="btn btn-secondary" href="ektm">Login EKTM</a>
 
             </div>
 
             <div style="text-align: center;" class="mb-2">
 
-              <a class="btn btn-danger ml-2" href="jadwal/uas.php">Jadwal UAS <span class="badge bg-success" style="color:white;">New!</span></a>
-              <a class="btn btn-danger" href="ujian.php">Login UJIAN <span class="badge bg-success" style="color:white;">New!</span></a>
+              <a class="btn btn-secondary ml-2" href="jadwal/uas.php">Jadwal UAS <span class="badge bg-success" style="color:white;">New!</span></a>
+              <a class="btn btn-secondary" href="ujian.php">Login UJIAN <span class="badge bg-success" style="color:white;">New!</span></a>
 
             </div>
 
