@@ -45,7 +45,7 @@
 
     <div>
 
-      <div class="col-md-12">
+      <div class="d-flex justify-content-center">
         <div class="block-web" style="background: #474747;">
           <div id="dynamic-table_wrapper" class="dataTables_wrapper ">
 
