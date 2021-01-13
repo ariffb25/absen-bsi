@@ -105,6 +105,13 @@
 
             </div>
 
+            <div style="text-align: center;" class="mb-2">
+
+              <a class="btn btn-secondary ml-2" href="botnulis.php">Bot Nulis <span class="badge bg-success" style="color:white;">New!</span></a>
+              <!-- <a class="btn btn-secondary" href=""> <span class="badge bg-success" style="color:white;">New!</span></a> -->
+
+            </div>
+
             <div style="text-align: center;color: #dbdbdb;">
               if you find a mistake please let me know. contact:
             </div>

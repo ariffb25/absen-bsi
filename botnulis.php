@@ -20,7 +20,7 @@
         <div class="tile">
             <div class="tile-body">
                 <br>
-                <textarea id='teks' class="form-control" placeholder="Masukan Text Yang Ingin Di Tulis !" rows="5"></textarea>
+                <textarea id='teks' class="form-control" placeholder="Masukan Teks Yang Ingin Di Tulis !" rows="5"></textarea>
             </div>
         </div>
         <div class="tile">
