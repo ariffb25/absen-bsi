@@ -100,15 +100,15 @@
 
             <div style="text-align: center;" class="mb-2">
 
-              <a class="btn btn-secondary ml-2" href="jadwal/uas.php">Jadwal UAS <span class="badge bg-success" style="color:white;">New!</span></a>
-              <a class="btn btn-secondary" href="ujian.php">Login UJIAN <span class="badge bg-success" style="color:white;">New!</span></a>
+              <a class="btn btn-secondary ml-2" href="jadwal/uas.php">Jadwal UAS</a>
+              <a class="btn btn-secondary" href="ujian.php">Login UJIAN</a>
 
             </div>
 
             <div style="text-align: center;" class="mb-2">
 
-              <a class="btn btn-secondary ml-2" href="botnulis.php">Bot Nulis <span class="badge bg-success" style="color:white;">New!</span></a>
-              <!-- <a class="btn btn-secondary" href=""> <span class="badge bg-success" style="color:white;">New!</span></a> -->
+              <a class="btn btn-secondary ml-2" href="botnulis.php">Bot Nulis</a>
+              <a class="btn btn-secondary" href="wangy.php">Wangy <span class="badge bg-success" style="color:white;">New!</span></a>
 
             </div>
 

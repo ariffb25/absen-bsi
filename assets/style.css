@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(212, 209, 209);
+}
+
+header{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 50px;
+    font-weight: bold;
+    color: white;
+    background: rgb(24, 24, 24);
+    padding: 0.5em;
+}
+
+main{
+    margin-left: 2em;
+    margin-bottom: 6em;
+}
+
+#form{
+    margin-bottom: 50px;
+}
+
+td{
+    margin-bottom: 10px;
+    /* border: 2px solid red; */
+    padding: 5px 0;
+}
+input{
+    color: orange;
+}
+
+button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-top: 1em;
+    font-size: large;
+    border-radius: 9px;
+    padding: 5px;
+}
+
+textarea{
+    max-width: 15em;
+    max-height: 10em;
+    border: 2px solid rgb(61, 61, 61);
+    border-radius: 10px;
+    padding: 10px;
+    overflow: scroll;
+    margin-right: 0.5em;
+}
+
+#copy-alert{
+    color: green;
+    font-size: small;
+}
+
+footer{
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 20px;
+    bottom: 0;
+    background-color: rgb(51, 51, 51);
+    color:white;
+}
