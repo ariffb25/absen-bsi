@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>DXXOO | INFO COVID-19</title>
+  <title>INFO COVID-19</title>
   <link rel="icon" href="https://i.ibb.co/YW3JfYj/dxxoo-logo.png" type="image/gif" sizes="32x32">
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
