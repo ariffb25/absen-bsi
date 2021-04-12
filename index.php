@@ -108,7 +108,13 @@
             <div style="text-align: center;" class="mb-2">
 
               <a class="btn btn-secondary ml-2" href="botnulis.php">Bot Nulis</a>
-              <a class="btn btn-secondary" href="wangy.php">Wangy <span class="badge bg-success" style="color:white;">New!</span></a>
+              <a class="btn btn-secondary" href="wangy.php">Wangy</a>
+
+            </div>
+
+            <div style="text-align: center;" class="mb-2">
+
+              <a class="btn btn-secondary" href="covid">Info Covid <span class="badge bg-success" style="color:white;">New!</span></a>
 
             </div>
 
